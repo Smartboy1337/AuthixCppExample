@@ -49,4 +49,5 @@ std::string AppSecretKey = "0000000000000000000000000000000000000000000000000000
 
 Replace the example data in the file authix.cpp with your information from the dashboard.
 
+### UNZIP ryptopp.rar IN AuthixExample\Libs ! 
 Tutorial soon!
